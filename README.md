@@ -4,9 +4,9 @@
 
 ## 2017 签到
 
-<a href="2017/八月.md">八月训练签到</a>
+<a href="2017/08">八月训练签到</a>
 
-<a href="2017/九月.md">九月训练签到</a>
+<a href="2017/09">九月训练签到</a>
 
 
 个人主页：<a href="http://renkaigis.com/" target="_blank">秋月春风等闲度</a>
