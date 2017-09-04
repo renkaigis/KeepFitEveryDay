@@ -5,8 +5,8 @@
 | 01 | ✔ | 81.5 | 82.3 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;平板支撑（30"/组，三组） | 回宿舍晚了，没跑步！ |
 | 02 | ✔ | 80.9 | 81.3 | 跑 步：3.10km，用时18'31"（配速5'58"） | 回去早点吧…… |
 | 03 | ✔ | - | 81.0 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;平板支撑（30"/组，三组） | 下雨了，愁死了！ |
-| 04 |  |  |  | 预计：<br>Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;平板支撑（30"/组，三组）<br> 跑 步：3.10km，用时18'31"（配速5'58"） |  |
-| 05 |  |  |  |  |  |
+| 04 | ✔ | 80.4 | 81.0 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;平板支撑（30"/组，三组）<br> 跑 步：5.07km，用时31'06"（配速6'08"） |  |
+| 05 |  |  |  | 预计<br>Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;平板支撑（30"/组，三组）<br> 跑 步：5.07km，用时31'06"（配速6'08"） |  |
 | 06 |  |  |  |  |  |
 | 07 |  |  |  |  |  |
 | 08 |  |  |  |  |  |
