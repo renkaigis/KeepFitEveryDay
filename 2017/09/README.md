@@ -14,8 +14,8 @@
 | 10 | ✔ | 80.2 | 81.6 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min）<br> 跑步：5.12km，用时30'11"（配速5'53"） | 果然体重都是骗人的…… |
 | 11 | ✔ | 81.4 | 81.9 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min）<br> 跑步：5.10km，用时29'51"（配速5'50"） | 看到这体重我很绝望！！！我**明明已经很努力了！ |
 | 12 | ✔ | 80.7 | 81.0 | Keep：腹肌撕裂者进阶（10min）<br> 跑步：5.14km，用时29'17"（配速5'41"） | 坚持一个月了！加油！ |
-| 13 |  | 80.3 |  |  |  |
-| 14 |  |  |  |  |  |
+| 13 | ✔ | 80.3 | 81.0 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min）<br> 跑步：5.08km，用时29'09"（配速5'44"） |  |
+| 14 |  | 80.1 |  |  |  |
 | 15 |  |  |  |  |  |
 | 16 |  |  |  |  |  |
 | 17 |  |  |  |  |  |
