@@ -20,8 +20,8 @@
 | 16 | ✔ | 80.7 | - | Keep：哑铃胸部训练（8min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个） | 肚子疼，跑不了。 |
 | 17 | ✔ | - | - | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;俯卧撑（20个）<br> 跑步：10km，用时57'46"（配速5'46"） | 北京马拉松，虽然只是报的线上的，很久没跑10公里了！ |
 | 18 | ✔ | 81.1 | 81.4 | Keep：腹肌撕裂者进阶（10min）<br> 跑步：5.01km，用时28'02"（配速5'35"） | 瘦下去太难，快没动力了~ |
-| 19 |  | 80.2 |  |  |  |
-| 20 |  |  |  |  |  |
+| 19 | ✔ | 80.2 | 80.7 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br> 跑步：5 km，用时 27'07"（配速 5'25"） | 这速度很赞！但是累死了，喘不过气！ |
+| 20 | ✔ | 80.2 | 81.4 |  |  |
 | 21 |  |  |  |  |  |
 | 22 |  |  |  |  |  |
 | 23 |  |  |  |  |  |
