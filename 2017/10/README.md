@@ -1,264 +1,37 @@
 # 十月锻炼签到
 
-### 尝试将之前的 Markdown 表格改为 HTML 的 table 表格，先试验试验试验…
-
-<table>
-    <tr>
-        <th>日期</th>
-        <th>签到</th>
-        <th>早(kg)</th>
-        <th>晚(kg)</th>
-        <th>锻炼项目</th>
-        <th>备注</th>
-    </tr>
-    <tr>
-        <td>01</td>
-        <td>✔</td>
-        <td>81.7</td>
-        <td>80.9</td>
-        <td>Keep：俯卧撑（20个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min）</td>
-        <td>九月欠下的陈年旧账国庆节熬夜到凌晨1点才补回来了！包括<a href="http://blog.renkaigis.com/KeepCoding/">KeepCoding</a>和<a href="http://blog.renkaigis.com/KeepEveryDay/">KeepEveryDay</a></td>
-    </tr>
-    <tr>
-        <td>02</td>
-        <td>✔</td>
-        <td>81.0</td>
-        <td>-</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>03</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>04</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>05</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>06</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>07</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>08</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>09</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>11</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-     <tr>
-        <td>12</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>13</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>14</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>15</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>16</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>17</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>18</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>19</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>20</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>21</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>22</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>23</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>24</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>25</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>26</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>27</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>28</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>29</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>30</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>31</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-</table>
+| 日期 | 签到 | 早(kg) | 晚(kg) | 锻炼项目 | 备注 |
+|----|---|---|---|---|---|
+| 01 | ✔ | 81.7 | 80.9 | Keep：俯卧撑（20个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） | 九月欠下的陈年旧账国庆节熬夜到凌晨1点才补回来了！包括<a href="http://blog.renkaigis.com/KeepCoding/">KeepCoding</a>和<a href="http://blog.renkaigis.com/KeepEveryDay/">KeepEveryDay</a> |
+| 02 | ✔ | 81.0 | - |  |  |
+| 03 |  |  |  |  |  |
+| 04 |  |  |  |  |  |
+| 05 |  |  |  |  |  |
+| 06 |  |  |  |  |  |
+| 07 |  |  |  |  |  |
+| 08 |  |  |  |  |  |
+| 09 |  |  |  |  |  |
+| 10 |  |  |  |  |  |
+| 11 |  |  |  |  |  |
+| 12 |  |  |  |  |  |
+| 13 |  |  |  |  |  |
+| 14 |  |  |  |  |  |
+| 15 |  |  |  |  |  |
+| 16 |  |  |  |  |  |
+| 17 |  |  |  |  |  |
+| 18 |  |  |  |  |  |
+| 19 |  |  |  |  |  |
+| 20 |  |  |  |  |  |
+| 21 |  |  |  |  |  |
+| 22 |  |  |  |  |  |
+| 23 |  |  |  |  |  |
+| 24 |  |  |  |  |  |
+| 25 |  |  |  |  |  |
+| 26 |  |  |  |  |  |
+| 27 |  |  |  |  |  |
+| 28 |  |  |  |  |  |
+| 29 |  |  |  |  |  |
+| 30 |  |  |  |  |  |
+| 31 |  |  |  |  |  |
 
 个人主页：<a href="http://renkaigis.com/" target="_blank">秋月春风等闲度</a>
