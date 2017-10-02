@@ -28,9 +28,9 @@
 | 24 | ✔ | - | - | Keep：哑铃胸部训练（8min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个） | 这几天过得有点乱，没记录体重。或者说是称了不敢记录😓 |
 | 25 | ✔ | 81.5 | 81.1 | 跑步：4km，用时 24'45"（配速6'11"） | 小腿就跟灌了铅一样沉，跑不动了！ |
 | 26 | ✔ | 81.7 | - | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40 个）<br> 跑步：5 km，用时 30'54"（配速 6'10"） | 可以可以！ |
-| 27 | ✔ | - | - |  | 下雨啦☔，不跑步了！ |
-| 28 |  |  |  |  |  |
-| 29 |  |  |  |  |  |
-| 30 |  |  |  |  |  |
+| 27 | ✔ | - | - | Keep：腹肌撕裂者进阶（10min） | 下雨啦☔，不跑步了！ |
+| 28 | ✔ | 81.2 | 80.7 | Keep：腹肌撕裂者进阶（10min） | - |
+| 29 | ✔ | 80.2 | 81.5 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） | 松懈了，唉，罪过罪过 |
+| 30 | ✔ | 81.5 | 80.7 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40 个）<br> 跑步：5 km，用时 29'27"（配速 5'53"） | 9月最后一天，九月整体不错，下旬有些松懈了~！ |
 
 个人主页：<a href="http://renkaigis.com/" target="_blank">秋月春风等闲度</a>
