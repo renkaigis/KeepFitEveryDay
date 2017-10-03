@@ -2,9 +2,9 @@
 
 | 日期 | 签到 | 早(kg) | 晚(kg) | 锻炼项目 | 备注 |
 |----|---|---|---|---|---|
-| 01 | ✔ | 81.7 | 80.9 | Keep：俯卧撑（20个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） | 九月欠下的陈年旧账国庆节熬夜到凌晨1点才补回来了！包括<a href="http://blog.renkaigis.com/KeepCoding/">KeepCoding</a>和<a href="http://blog.renkaigis.com/KeepEveryDay/">KeepEveryDay</a> |
-| 02 | ✔ | 81.0 | - |  |  |
-| 03 |  |  |  |  |  |
+| 01 | ✔ | 81.7 | 80.9 | Keep：俯卧撑（20个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） | 九月欠下的陈年旧账国庆节熬夜到凌晨1点才补回来了！ |
+| 02 | ✔ | 81.0 | 82.3 |  |  |
+| 03 |  | 81.2 |  |  |  |
 | 04 |  |  |  |  |  |
 | 05 |  |  |  |  |  |
 | 06 |  |  |  |  |  |
