@@ -2,7 +2,7 @@
 
 | 日期 | 签到 | 早(kg) | 晚(kg) | 锻炼项目 | 备注 |
 |----|---|---|---|---|---|
-| 01 | ✔ | 81.5 | 82.3 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;平板支撑（30"/组，三组） | 回宿舍晚了，没跑步！ |
+| 01 | ✔ | 81.7 | 80.9 | Keep：俯卧撑（20个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） | 九月欠下的陈年旧账国庆节熬夜到凌晨1点才补回来了！包括<a href="http://blog.renkaigis.com/KeepCoding/">KeepCoding</a>和<a href="http://blog.renkaigis.com/KeepEveryDay/">KeepEveryDay</a> |
 | 02 | ✔ | 80.9 | 81.3 | 跑步：3.10km，用时18'31"（配速5'58"） | 回去早点吧…… |
 | 03 | ✔ | - | 81.0 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;平板支撑（30"/组，三组） | 下雨了，愁死了！ |
 | 04 | ✔ | 80.4 | 81.0 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;平板支撑（30"/组，三组）<br> 跑步：5.07km，用时31'06"（配速6'08"） | - |
