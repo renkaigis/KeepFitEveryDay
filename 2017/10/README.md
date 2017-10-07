@@ -4,11 +4,11 @@
 |----|---|---|---|---|---|
 | 01 | ✔ | 81.7 | 80.9 | Keep：俯卧撑（20个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） | 九月欠下的陈年旧账国庆节补回来了！ |
 | 02 | ✔ | 80.5 | 82.3 | 跑步：5 km，用时 27'42"（配速 5'32"） | 速度可以~ |
-| 03 | ✔ | 81.2 |  |  |  |
-| 04 |  |  |  |  |  |
-| 05 |  |  |  |  |  |
-| 06 |  |  |  |  |  |
-| 07 |  |  |  |  |  |
+| 03 | ✔ | 81.2 | - | Keep：俯卧撑（20个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） | 国庆+下雨！ |
+| 04 | ✔ | - | - | Keep：哑铃胸部训练（8min） | 国庆+下雨！ |
+| 05 | ✔ | - | - | Keep：跪姿健腹轮（10个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） | 国庆+下雨！ |
+| 06 | ✔ | - | - | Keep：跪姿健腹轮（10个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） | 国庆休息！ |
+| 07 | ✔ | - | - |  |  |
 | 08 |  |  |  |  |  |
 | 09 |  |  |  |  |  |
 | 10 |  |  |  |  |  |
