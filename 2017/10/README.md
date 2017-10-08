@@ -8,8 +8,8 @@
 | 04 | ✔ | - | - | Keep：哑铃胸部训练（8min） | 国庆+下雨！ |
 | 05 | ✔ | - | - | Keep：跪姿健腹轮（10个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） | 国庆+下雨！ |
 | 06 | ✔ | - | - | Keep：跪姿健腹轮（10个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） | 国庆休息！ |
-| 07 | ✔ | - | - |  |  |
-| 08 |  |  |  |  |  |
+| 07 | ✔ | - | - | Keep：健腹轮（10个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br>跑步：5 km，用时 29'42"（配速 5'56"） | 快收假了，恢复了~ |
+| 08 | ✔ | - | - |  |  |
 | 09 |  |  |  |  |  |
 | 10 |  |  |  |  |  |
 | 11 |  |  |  |  |  |
