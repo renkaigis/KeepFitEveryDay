@@ -10,8 +10,8 @@
 | 06 | ✔ | - | - | Keep：跪姿健腹轮（10个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） | 国庆休息！ |
 | 07 | ✔ | - | - | Keep：跪姿健腹轮（10个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br>跑步：5 km，用时 29'42"（配速 5'56"） | 快收假了，恢复了~ |
 | 08 | ✔ | - | - | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跪姿健腹轮（10个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br>跑步：1.51 km，用时 9'04"（配速 6'00"） | 跑不了… |
-| 09 | ✔ | 81.6 | 82.3 |  |  |
-| 10 |  |  |  |  |  |
+| 09 | ✔ | 81.6 | 82.3 | Keep：腹肌撕裂者进阶（10min）<br>跑步：5 km，用时 29'37"（配速 5'55"） |  |
+| 10 |  | 82.1 |  |  |  |
 | 11 |  |  |  |  |  |
 | 12 |  |  |  |  |  |
 | 13 |  |  |  |  |  |
