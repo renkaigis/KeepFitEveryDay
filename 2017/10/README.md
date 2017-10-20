@@ -11,17 +11,17 @@
 | 07 | ✔ | - | - | Keep：跪姿健腹轮（10个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br>跑步：5 km，用时 29'42"（配速 5'56"） | 快收假了，恢复了~ |
 | 08 | ✔ | - | - | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跪姿健腹轮（10个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br>跑步：1.51 km，用时 9'04"（配速 6'00"） | 跑不了… |
 | 09 | ✔ | 81.6 | 82.3 | Keep：腹肌撕裂者进阶（10min）<br>跑步：5 km，用时 29'37"（配速 5'55"） |  |
-| 10 |  | 82.1 |  |  |  |
-| 11 |  |  |  |  |  |
-| 12 |  |  |  |  |  |
-| 13 |  |  |  |  |  |
-| 14 |  |  |  |  |  |
-| 15 |  |  |  |  |  |
-| 16 |  |  |  |  |  |
-| 17 |  |  |  |  |  |
-| 18 |  |  |  |  |  |
-| 19 |  |  |  |  |  |
-| 20 |  |  |  |  |  |
+| 10 | ✔ | 82.1 | 82.0 | Keep：腹肌撕裂者进阶（10min） |  |
+| 11 | ✔ | 82.5 | 81.8 | Keep：跪姿健腹轮（10个） | 准备南马，这几天不想运动~ |
+| 12 | ✔ | 83.4 | 84.0 | Keep：哑铃胸部训练（8min） | 准备南马，这几天不想运动~ |
+| 13 | ✔ | 83.3 |  | Keep：跪姿健腹轮（10个） | 准备南马，这几天不想运动~ |
+| 14 | ✔ | - | - | Keep：俯卧撑（10个） | 准备南马，这几天不想运动~ |
+| 15 | ✔ | - | - | 跑步：21.8 km，用时 2h 27'12"（配速 6'44"） | 2017南京马拉松，我的第二个半程马拉松！ |
+| 16 | ✔ | 82.3 | 82.5 | Keep：跪姿健腹轮（10个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个） | 休整 |
+| 17 | ✔ | - | - | Keep：哑铃胸部训练（8min） | 休整 |
+| 18 | ✔ | 82.2 | 81.8 | Keep：跪姿健腹轮（10个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br>跑步：5.03 km，用时 29'35"（配速 5'52"） | 为了个南马，松懈了自己，然后体重飙升了！！！ |
+| 19 | ✔ | 82.1 | 83.2 | Keep：跪姿健腹轮（10个）<br>跑步：5 km，用时 29'01"（配速 5'47"） | 加油！ |
+| 20 | ✔ | - | - |  |  |
 | 21 |  |  |  |  |  |
 | 22 |  |  |  |  |  |
 | 23 |  |  |  |  |  |
