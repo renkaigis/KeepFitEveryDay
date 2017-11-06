@@ -6,8 +6,8 @@
 | 02 | ✔ | - | - | Keep：腹肌撕裂者进阶（10min）<br>跑步：4 km，用时 24'03"（配速 6'00"） | 天气越来越冷了，越来越不想运动了！！！ |
 | 03 | ✔ | - | - | Keep：俯卧撑（20个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） | 外面实在是冷！没跑步… |
 | 04 | ✔ | - | - | Keep：深蹲（40个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） | 监考一天，累！没跑步… |
-| 05 |  | 31.1 |  |  |  |
-| 06 |  |  |  |  |  |
+| 05 | ✔ | 83.1 | - | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br>跑步：5 km，用时 29'37"（配速 5'55"） | 天气是真的冷~ |
+| 06 | ✔ | - | 83.1 |  |  |
 | 07 |  |  |  |  |  |
 | 08 |  |  |  |  |  |
 | 09 |  |  |  |  |  |
