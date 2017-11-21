@@ -21,8 +21,8 @@
 | 17 | ✔ | - | - | Keep：仰卧起坐（40 个） |  |
 | 18 | ✔ | - | - | Keep：仰卧起坐（40 个）<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个） | 返程回南京喽，早起做运动 |
 | 19 | ✔ | 82.4 | 82.8 | Keep：仰卧起坐（40 个）<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个） | 娃哈哈。本以为出差大吃大喝会胖三四斤，没想到体重还略有下降，开心😊 |
-| 20 | ✔ | 81.0 |  |  | 体重让我看见了曙光，加油！ |
-| 21 |  |  |  |  |  |
+| 20 | ✔ | 81.0 | 81.5 | Keep：深蹲（40个）<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跪姿健腹轮（10个）<br>跑步：5.02 km，用时 28'59"（配速 5'46"） | 体重让我看见了曙光，加油！ |
+| 21 | ✔ | 81.2 |  |  | 体重回到了正常水平，开心😊 |
 | 22 |  |  |  |  |  |
 | 23 |  |  |  |  |  |
 | 24 |  |  |  |  |  |
