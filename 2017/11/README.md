@@ -25,8 +25,8 @@
 | 21 | ✔ | 81.2 | - | Keep：深蹲（40个）<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;仰卧起坐（40个） | 思姐来南京开会了，晚上吃得多，没跑步 |
 | 22 | ✔ | 83.2 | 82.1 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;仰卧起坐（40个/组，两组）<br>跑步：5.04 km，用时 26'38"（配速 5'16"） | 今晚打鸡血了~这么快… |
 | 23 | ✔ | 81.3 | 81.2 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;仰卧起坐（40个）<br>跑步：5.03 km，用时 28'49"（配速 5'43"） | 冬天跑步冷的身体都不出汗… |
-| 24 | ✔ | 80.9 |  | 仰卧起坐（40个） |  |
-| 25 |  |  |  |  |  |
+| 24 | ✔ | 80.9 | 81.2 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;仰卧起坐（40个/组，两组）<br>跑步：5.16 km，用时 29'06"（配速 5'37"） | 冬天跑步太冷了！！ |
+| 25 | ✔ | 80.8 |  | 仰卧起坐（40个） |  |
 | 26 |  |  |  |  |  |
 | 27 |  |  |  |  |  |
 | 28 |  |  |  |  |  |
