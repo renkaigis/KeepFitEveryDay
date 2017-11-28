@@ -16,7 +16,7 @@
 | 12 | ✔ | - | - | Keep：仰卧起坐（40 个） | <a href="http://blog.renkaigis.com/posts/Mine/2017-11-20-experiment-in-Kunming-Dianchi">云南出差</a>，但是没有忘记自己的任务，宾馆也要做起来~ |
 | 13 | ✔ | - | - | Keep：仰卧起坐（40 个）<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲：（40个） |  |
 | 14 | ✔ | - | - | Keep：仰卧起坐（40 个）<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腹肌撕裂者进阶（10min） |  |
-| 15 | ✔ | - | - | Keep：仰卧起坐（40 个） | 小坐一点，完成任务 |
+| 15 | ✔ | - | - | Keep：仰卧起坐（40 个） | 小做一点，完成任务 |
 | 16 | ✔ | - | - | Keep：深蹲（40个）<br>跑步：3.82 km，用时 28'22"（配速 7'24"） | 在昆明也要跑起来，在这个城市留下一点印记！下午吃的有点多，跑跑停停的速度有点慢~ |
 | 17 | ✔ | - | - | Keep：仰卧起坐（40 个） |  |
 | 18 | ✔ | - | - | Keep：仰卧起坐（40 个）<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个） | 返程回南京喽，早起做运动 |
@@ -28,8 +28,8 @@
 | 24 | ✔ | 80.9 | 81.2 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;仰卧起坐（40个/组，两组）<br>跑步：5.16 km，用时 29'06"（配速 5'37"） | 冬天跑步太冷了！！ |
 | 25 | ✔ | 80.8 | 81.5 | Keep：仰卧起坐（40个） | 周六偷懒了 |
 | 26 | ✔ | 81.1 | - | Keep：哑铃胸部训练（8min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跪姿健腹轮（10个/组，两组）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;仰卧起坐（40个+20个）<br>跑步：5.14 km，用时 29'10"（配速 5'40"） | 听说慢跑可以减脂，以后要慢慢来了，不要太拼…<br>速度快有什么用，持久才是王道！ |
-| 27 | ✔ | 81.8 |  |  |  |
-| 28 |  |  |  |  |  |
+| 27 | ✔ | 81.8 | 83.2 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br>跑步：5.17 km，用时 29'41"（配速 5'44"） | 别人的生日大趴，感觉我这几天白减肥了~<br>吃完火锅还能跑个 5 公里，着实佩服我自己！ |
+| 28 | ✔ | 82.0 |  | 仰卧起坐（40个） |  |
 | 29 |  |  |  |  |  |
 | 30 |  |  |  |  |  |
 | 31 |  |  |  |  |  |
