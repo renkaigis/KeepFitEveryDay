@@ -8,7 +8,7 @@
 | 04 | ✔ | - | - | Keep：深蹲（40个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哑铃胸部训练（8min） | 监考一天，累！没跑步… |
 | 05 | ✔ | 83.1 | - | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br>跑步：5 km，用时 29'37"（配速 5'55"） | 天气是真的冷~ |
 | 06 | ✔ | - | 83.1 | Keep：哑铃胸部训练（15min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跪姿健腹轮（10个） |  |
-| 07 |d✔ | - | - | Keep：哑铃胸部训练（8min） | 天气冷，怂了 |
+| 07 | ✔ | - | - | Keep：哑铃胸部训练（8min） | 天气冷，怂了 |
 | 08 | ✔ | - | - | Keep：腹肌撕裂者进阶（10min）<br>跑步：5.02 km，用时 29'47"（配速 5'55"） |  |
 | 09 | ✔ | 82.9 | 82.9 | Keep：腹肌撕裂者进阶（10min）<br>跑步：2 km，用时 11'55"（配速 5'55"） | 跑了两公里就跑不动了… |
 | 10 | ✔ | - | - | 忘记了都做了什么，反正就是做了，哼😒 |  |
@@ -29,9 +29,8 @@
 | 25 | ✔ | 80.8 | 81.5 | Keep：仰卧起坐（40个） | 周六偷懒了 |
 | 26 | ✔ | 81.1 | - | Keep：哑铃胸部训练（8min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跪姿健腹轮（10个/组，两组）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;仰卧起坐（40个+20个）<br>跑步：5.14 km，用时 29'10"（配速 5'40"） | 听说慢跑可以减脂，以后要慢慢来了，不要太拼…<br>速度快有什么用，持久才是王道！ |
 | 27 | ✔ | 81.8 | 83.2 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br>跑步：5.17 km，用时 29'41"（配速 5'44"） | 别人的生日大趴，感觉我这几天白减肥了~<br>吃完火锅还能跑个 5 公里，着实佩服我自己！ |
-| 28 | ✔ | 82.0 |  | 仰卧起坐（40个） |  |
-| 29 |  |  |  |  |  |
-| 30 |  |  |  |  |  |
-| 31 |  |  |  |  |  |
+| 28 | ✔ | 82.0 | - | Keep：哑铃胸部训练（8min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;仰卧起坐（40个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跪姿健腹轮（10个） | 给师兄帮忙送🌹，没跑步~ |
+| 29 | ✔ | - | - | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br>跑步：5.24 km，用时 29'19"（配速 5'35"） | 说了要慢点跑，但还是不自觉的快了起来！ |
+| 30 | ✔ | 82.1 | - |  | 11月结束！12月新的开始！ |
 
 个人主页：<a href="http://renkaigis.com/" target="_blank">秋月春风等闲度</a>
