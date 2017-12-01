@@ -31,6 +31,6 @@
 | 27 | ✔ | 81.8 | 83.2 | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br>跑步：5.17 km，用时 29'41"（配速 5'44"） | 别人的生日大趴，感觉我这几天白减肥了~<br>吃完火锅还能跑个 5 公里，着实佩服我自己！ |
 | 28 | ✔ | 82.0 | - | Keep：哑铃胸部训练（8min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;仰卧起坐（40个）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跪姿健腹轮（10个） | 给师兄帮忙送🌹，没跑步~ |
 | 29 | ✔ | - | - | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深蹲（40个）<br>跑步：5.24 km，用时 29'19"（配速 5'35"） | 说了要慢点跑，但还是不自觉的快了起来！ |
-| 30 | ✔ | 82.1 | - |  | 11月结束！12月新的开始！ |
+| 30 | ✔ | 82.1 | - | Keep：哑铃胸部训练（8min） | 11月结束！12月新的开始！ |
 
 个人主页：<a href="http://renkaigis.com/" target="_blank">秋月春风等闲度</a>
