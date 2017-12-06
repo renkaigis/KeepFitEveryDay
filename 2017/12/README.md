@@ -5,9 +5,9 @@
 | 01 | ✔ | 82.0 | - | Keep：哑铃胸部训练（8min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;仰卧起坐（40个） | 没跑步！ |
 | 02 | ✔ | 82.4 | - | Keep：哑铃胸部训练（8min） | 偷懒 |
 | 03 | ✔ | - | - | Keep：哑铃胸部训练（8min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;仰卧起坐（40个） | 这几天因为一些事，有点松懈，马上进入状态！ |
-| 04 | ✔ | - | - | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;仰卧起坐（40个）<br>跑步：6.10 km，用时 35'18"（配速 5'46"） |  |
-| 05 | ✔ | 81.9 |  |  |  |
-| 06 |  |  |  |  |  |
+| 04 | ✔ | - | - | Keep：腹肌撕裂者进阶（10min）<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;仰卧起坐（40个）<br>跑步：6.10 km，用时 35'18"（配速 5'46"） | 不错！ |
+| 05 | ✔ | 81.9 | - | Keep：腹肌撕裂者强化（15min）<br>跑步：7.52 km，用时 45'10"（配速 6'00"） | 今天起，追求更长时间的运动，开始计时跑。不管是跑的还是走的都计算在内！ |
+| 06 | ✔ | 81.9 |  |  |  |
 | 07 |  |  |  |  |  |
 | 08 |  |  |  |  |  |
 | 09 |  |  |  |  |  |
