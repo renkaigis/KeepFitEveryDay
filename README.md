@@ -10,7 +10,7 @@
 
 ### Nov. 2023
 
-### OCt. 2023
+### Oct. 2023
 
 | Date | Do | Weight(kg) | Time | Remarks |
 |----|---|---|---|---|
