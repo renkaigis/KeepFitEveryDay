@@ -1,8 +1,8 @@
-# 每日锻炼计划
+# A Plan to Keep Healthy and Fit
 
-灵感来源于 [hoosin](https://github.com/hoosin) 的 [天天锻炼计划](https://github.com/hoosin/EveryDaySport)
+> 灵感来源于 [hoosin](https://github.com/hoosin) 的 [天天锻炼计划](https://github.com/hoosin/EveryDaySport)
 
-- Restart from 2023 at Australia.
+**Restart from 2023 at Australia.**
 
 ## 2023 Fit
 
@@ -343,4 +343,4 @@
 
 In 2023, restart again.
 
-Kai Ren homepage：<a href="http://renkaigis.com/" target="_blank">Kai's Bolg</a>
+Kai Ren homepage：<a href="http://renkaigis.com/" target="_blank">Kai's Home</a>
