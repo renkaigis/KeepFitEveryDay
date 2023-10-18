@@ -290,7 +290,7 @@
 | 29 | ✔ |  |  |  |
 | 30 | ✔ |  |  |  |
 
-=======
+---
 
 ## 2018 签到
 
@@ -341,4 +341,6 @@
 
 2018 年 5 月，重新开始记录！
 
-个人主页：<a href="http://renkaigis.com/" target="_blank">秋月春风等闲度</a>
+In 2023, restart again.
+
+Kai Ren homepage：<a href="http://renkaigis.com/" target="_blank">Kai's Bolg</a>
